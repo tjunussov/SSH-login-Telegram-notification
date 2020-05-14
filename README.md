@@ -19,7 +19,7 @@ Sends a Telegram notification when a user is connecting on one of your servers
 ```shell
 cd /etc/profile.d/
 
-wget https://raw.githubusercontent.com/Punk--Rock/SSH-login-Telegram-notification/master/Telegram_notification.sh
+wget https://raw.githubusercontent.com/tjunussov/SSH-login-Telegram-notification/master/telegram_ssh_login_notification.sh
 ```
 
 - Edit ```telegrambot``` and ```telegramchatid``` variables in Telegram_notification.sh with your Telegram bot token and your Telegram user ID
